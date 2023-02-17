@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+.card {
+  max-width: 350px;
+  margin: 10px auto;
+  background-color: grey;
+  padding: 10px;
+}
+
+.w-25 {
+  margin: 0 auto;
+}
+
+a {
+  color:orange
+}
+
+a:hover {
+  color:orangered;
+}
+
+button a {
+  color: white;
+  text-decoration: none;
+}
+
+button a:hover {
+  color: grey;
+  text-decoration: none;
+}
+
+
